@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ACCESSING+SECURE+SERVER...;DECRYPTING+CAPSTONE+FILES...;PRCP-1006+DATA+PACKAGE+READY.;INITIATE+DOWNLOAD_SEQUENCE" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ACCESSING+SECURE+SERVER...;DECRYPTING+CAPSTONE+FILES...;DATA+PACKAGE+READY.;INITIATE+DOWNLOAD_SEQUENCE" alt="Terminal Typing" />
 </a>
 
 <br>

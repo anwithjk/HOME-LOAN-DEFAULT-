@@ -9,7 +9,7 @@ This project applies logistic regression to predict whether a borrower will defa
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=PRCP-1006:+HOME+LOAN+DEFAULT+PREDICTION;EVOLUTIONARY+DATA+SCIENCE;LIGHTGBM+|+XGBOOST+|+NEURAL+NETS;TARGETING+FINANCIAL+STABILITY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=HOME+LOAN+DEFAULT+PREDICTION;EVOLUTIONARY+DATA+SCIENCE;LIGHTGBM+|+XGBOOST+|+NEURAL+NETS;TARGETING+FINANCIAL+STABILITY" alt="Typing SVG" />
 </a>
 
 <p>
